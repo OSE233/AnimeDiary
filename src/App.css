@@ -1,0 +1,26 @@
+/* Style all h1 headings */
+h1 {
+  background-color: #000000; /* purple */
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+  margin-top: 30px;
+}
+
+/* Center all images */
+img {
+  display: block;
+  margin: 30px auto; /* space above + centered */
+  max-width: 400px;
+  border-radius: 10px;
+  border: 4px solid #f700ffea; /* matching color */
+}
+
+/* Paragraph spacing */
+p {
+  text-align: center;
+  line-height: 1.6;
+  margin-bottom: 40px;
+  color: #0f29b9; /* paragraph text color */
+}
