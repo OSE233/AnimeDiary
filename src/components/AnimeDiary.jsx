@@ -15,7 +15,7 @@ const AnimeDiary=() =>{
     </p> 
 
     <h1>DAN DA DAN SEASON 2  </h1>
-<img src="pics/ddd.jpg" alt="dan da dan"/>
+<img src="public/ddd.jpg" alt="dan da dan"/>
 <p>
     This is one of my fav its came out last two years. Its an intresting anime about a girl<br/>
      named momo and guy named okarun who believe in superstitions like aliens and ghost, <br/>
@@ -28,7 +28,7 @@ const AnimeDiary=() =>{
 
 
  <h1> MY HEROS ACADEMIA / BOKU NO HERO DESU (MHA/BHN)</h1>
-<img src="pics/mha.jpg" alt="MHA/BKN"/>
+<img src="public/mha.jpg" alt="My Hero's Academia/Boku no hero desu/MHA/BKN"/>
 <p>
     This one is about a guy Midoriya Izuku who was born powerless and often bullied by some guy<br/>
     Katsuki Bakugo. Until one day he was acknowledged by the no.1 hero who passed down a powerful<br/>
@@ -39,7 +39,7 @@ const AnimeDiary=() =>{
 
 
  <h1> SCISSORS SEVEN SEASON 5    </h1>
-<img src="pics/scissors.jpg" alt="SS"/>
+<img src="public/scissors.jpg" alt=""/>
 <p>
     This is bout a funny and stupid guy seven who just wants to be rich but his boss gave him a job as an <br/>
     assaisain so he find out he was actually an assaisain but he cant remember he needs to find out bout<br/>
@@ -50,7 +50,7 @@ const AnimeDiary=() =>{
 
 
  <h1> SHAMEN KING</h1>
-<img src="pics/sh.jpg" alt="SH"/>
+<img src="public/sh.jpg" alt="Shamen King"/>
 <p>
     i dont really know much bout this but some guy Yho just wants to be the king so he can live a comfortable<br/>
     life so in order to do that he needs to fight and prove that hes worthy and he has to fight a demon who<br/>
@@ -61,7 +61,7 @@ const AnimeDiary=() =>{
 
 
  <h1>THE FRAGRANT FLOWER BLOSSOMS WITH DIGNITY </h1>
-<img src="pics/flbd.jpg" alt="TFFBD"/>
+<img src="public/flbd.jpg" alt="The Frangrant Flower Blossom With Diginity"/>
 <p>
     no much to say this is a bakers son Rintaro but he dosent want anyone to know about it so he hides it<br/>
     until some girl Karuko Waguri from another school finds out they become friends even there friends r friends
@@ -70,16 +70,13 @@ const AnimeDiary=() =>{
 
 
 <h1>TOILET BOUND HONAKOKUN /TBH</h1>
-<img src="pics/tbh.png" alt="TBH"/>
+<img src="public/jnk.jpg" alt="Toilet Bound Honakokun/TBH"/>
 <p>
 This is another one of my no.1 fav so a girl Yashiro Nene goes to a school that is haunted by seven spirits<br/>
 One of them she is bound to him Honako/Amane he used to be alive until one day he killed himself and his <br/>
 twin brother so they have to find out the traitor who is trying to make those seven spirts disappears.
 
 </p>
-
-
-
 
     </div>
   )
