@@ -39,7 +39,7 @@ const AnimeDiary=() =>{
 
 
  <h1> SCISSORS SEVEN SEASON 5    </h1>
-<img src="public/scissors.jpg" alt=""/>
+<img src="/scissors.jpg" alt="Scissor Seven Season Five"/>
 <p>
     This is bout a funny and stupid guy seven who just wants to be rich but his boss gave him a job as an <br/>
     assaisain so he find out he was actually an assaisain but he cant remember he needs to find out bout<br/>
@@ -50,7 +50,7 @@ const AnimeDiary=() =>{
 
 
  <h1> SHAMEN KING</h1>
-<img src="public/sh.jpg" alt="Shamen King"/>
+<img src="" alt="Shamen King"/>
 <p>
     i dont really know much bout this but some guy Yho just wants to be the king so he can live a comfortable<br/>
     life so in order to do that he needs to fight and prove that hes worthy and he has to fight a demon who<br/>
