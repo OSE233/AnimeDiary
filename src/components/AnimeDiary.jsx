@@ -15,7 +15,7 @@ const AnimeDiary=() =>{
     </p> 
 
     <h1>DAN DA DAN SEASON 2  </h1>
-<img src="public/ddd.jpg" alt="dan da dan"/>
+<img src="/ddd.jpg" alt="dan da dan"/>
 <p>
     This is one of my fav its came out last two years. Its an intresting anime about a girl<br/>
      named momo and guy named okarun who believe in superstitions like aliens and ghost, <br/>
@@ -28,7 +28,7 @@ const AnimeDiary=() =>{
 
 
  <h1> MY HEROS ACADEMIA / BOKU NO HERO DESU (MHA/BHN)</h1>
-<img src="public/mha.jpg" alt="My Hero's Academia/Boku no hero desu/MHA/BKN"/>
+<img src="/mha.jpg" alt="My Hero's Academia/Boku no hero desu/MHA/BKN"/>
 <p>
     This one is about a guy Midoriya Izuku who was born powerless and often bullied by some guy<br/>
     Katsuki Bakugo. Until one day he was acknowledged by the no.1 hero who passed down a powerful<br/>
@@ -50,7 +50,7 @@ const AnimeDiary=() =>{
 
 
  <h1> SHAMEN KING</h1>
-<img src="" alt="Shamen King"/>
+<img src="/sh.jpg" alt="Shamen King"/>
 <p>
     i dont really know much bout this but some guy Yho just wants to be the king so he can live a comfortable<br/>
     life so in order to do that he needs to fight and prove that hes worthy and he has to fight a demon who<br/>
@@ -61,20 +61,21 @@ const AnimeDiary=() =>{
 
 
  <h1>THE FRAGRANT FLOWER BLOSSOMS WITH DIGNITY </h1>
-<img src="public/flbd.jpg" alt="The Frangrant Flower Blossom With Diginity"/>
+<img src="/flbd.jpg" alt="The Frangrant Flower Blossom With Diginity"/>
 <p>
-    no much to say this is a bakers son Rintaro but he dosent want anyone to know about it so he hides it<br/>
+ Not much to say, So the Ml/MC is a bakers son Rintaro but he dosent want anyone(he's not embrassed of ppl finding out he just think ppl would 
+ judge hime since he looks very scary so no one thinks that type of profession suits him) to know about it so he hides it<br/>
     until some girl Karuko Waguri from another school finds out they become friends even there friends r friends
 </p>
 
 
 
 <h1>TOILET BOUND HONAKOKUN /TBH</h1>
-<img src="public/jnk.jpg" alt="Toilet Bound Honakokun/TBH"/>
+<img src="/jnk.jpg" alt="Toilet Bound Honakokun/TBH"/>
 <p>
-This is another one of my no.1 fav so a girl Yashiro Nene goes to a school that is haunted by seven spirits<br/>
-One of them she is bound to him Honako/Amane he used to be alive until one day he killed himself and his <br/>
-twin brother so they have to find out the traitor who is trying to make those seven spirts disappears.
+This is another one of my no.1 favs. So it's bout a girl Yashiro Nene she attends a school that is haunted by seven spirits<br/>
+One of them (who is the leader of the seven spirits)she's bound to him Honako/Amane/No.7 he used to be alive until one day <br/>
+he killed himself and his twin brother. So they have to find out the traitor who is trying to make those seven spirts disappears.
 
 </p>
 
